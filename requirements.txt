@@ -1,0 +1,9 @@
+openai
+torch
+torchaudio
+transformers
+dotenv
+denoiser
+faster_whisper
+fastapi
+uvicorn
